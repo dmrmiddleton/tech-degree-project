@@ -1,2 +1,1 @@
-# tech-degree-project
- Tech degree project
+Tech degree project
